@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c27d2a85-4fa7-4702-8eac-ecf5a25fbb30" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/dubbo-consumer/src/main/java/com/dong/dubbo/ConsumerClient.java" afterPath="$PROJECT_DIR$/dubbo-consumer/src/main/java/com/dong/dubbo/ConsumerClient.java" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -72,7 +72,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConsumerClient.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ConsumerClient.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dubbo-consumer/src/main/java/com/dong/dubbo/ConsumerClient.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="464">
@@ -84,11 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="102" column="17" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="102" selection-end-column="17" />
+            <state relative-caret-position="189">
+              <caret line="66" column="29" lean-forward="false" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -132,7 +132,6 @@
       <list>
         <option value="$PROJECT_DIR$/dubbo-provider/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo-consumer/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo-provider/src/main/java/com/dong/dubbo/quickStart/ProviderClient.java" />
         <option value="$PROJECT_DIR$/dubbo-consumer/src/main/java/com/dong/dubbo/ServiceAPI.java" />
         <option value="$PROJECT_DIR$/dubbo-provider/src/main/java/com/dong/dubbo/ServiceAPI.java" />
@@ -141,6 +140,7 @@
         <option value="$PROJECT_DIR$/dubbo-consumer/src/main/resources/applicationContext-consumer.xml" />
         <option value="$PROJECT_DIR$/dubbo-provider/src/main/resources/applicationContext-provider.xml" />
         <option value="$PROJECT_DIR$/dubbo-consumer/src/main/java/com/dong/dubbo/ConsumerClient.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -478,12 +478,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545622386560</updated>
-      <workItem from="1545622389581" duration="6948000" />
+      <workItem from="1545622389581" duration="7255000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6948000" />
+    <option name="totallyTimeSpent" value="7255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -562,14 +562,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="102" column="17" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="102" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dubbo-provider/src/main/resources/applicationContext-provider.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="667">
@@ -630,6 +622,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="66" column="29" lean-forward="false" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
